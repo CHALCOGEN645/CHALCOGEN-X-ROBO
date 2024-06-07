@@ -1,5 +1,5 @@
 {
-    "name": "Jarvis Robot",
+    "name": "Chalcogen Robot",
     "description": "A Telegram Group Management RoBot.",
     "logo": "https://telegra.ph/file/64dcb13558013d1e567c6.jpg",
     "keywords": [
@@ -8,7 +8,7 @@
         "group",
         "manager"
     ],
-    "repository": "https://github.com/doraemon890/JARVIS-X-ROBO",
+    "repository": "https://github.com/doraemon890/CHALCOGEN-X-ROBO",
     "stack": "heroku-22",
     "addons": [
         {
