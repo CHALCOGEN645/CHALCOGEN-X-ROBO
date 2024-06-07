@@ -5,7 +5,7 @@ from pyrogram.enums import ChatAction, ParseMode
 from pyrogram import filters
 from MukeshAPI import api
 
-@Jarvis.on_message(filters.command(["chatgpt","ai","ask","Chalcogen","chalcogen"],  prefixes=["+", ".", "/", "-", "?", "$","#","&"]))
+@Jarvis.on_message(filters.command(["chatgpt","ai","ask","Siri","Chalcogen","chalcogen"],  prefixes=["+", ".", "/", "-", "?", "$","#","&"]))
 async def chat_gpt(bot, message):
     
     try:
